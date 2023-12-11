@@ -1,0 +1,25 @@
+{
+  "name": "atvi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.4",
+    "@types/prompt-sync": "^4.2.0",
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.195",
+    "@types/node": "^20.0.0"
+  }
+}
